@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1,4E (720p)
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1,APT (480p) [Not 24/7]
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1,ART TV (720p) [Not 24/7]
+http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+#EXTINF:-1,Aghapy TV (1080p) [Not 24/7]
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1,Alert (576p) [Not 24/7]
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1,Alfa Dramas (226p) [Not 24/7]
+https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+#EXTINF:-1,Alpha TV
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1,Attica TV (1080p) [Not 24/7]
+https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+#EXTINF:-1,Axeloos TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1,BARAZA tv
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,BARAZA tv Greek music
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,Best TV (720p) [Not 24/7]
+https://stream.net7.gr/hls/best/index.m3u8
+#EXTINF:-1,Cannali TV
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1,Channel 9 (720p)
+http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+#EXTINF:-1,Choice (956p) [Not 24/7]
+https://vod.streams.ovh:3528/stream/play.m3u8
+#EXTINF:-1,Cinema live
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1,City Channel-Greece
+https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1,Corfu TV (576p) [Not 24/7]
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1,Creta (540p) [Not 24/7]
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1,Crete tv-GR
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1,Diavata TV (720p)
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+#EXTINF:-1,Dipso TV (720p) [Not 24/7]
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1,ERT News (720p) [Geo-blocked]
+http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
+#EXTINF:-1,ERT World
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1,ERT World (720p)
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1,Ellas TV (1080p)
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1,Ena Channel (576p) [Not 24/7]
+http://176.9.123.140:1935/1c/stream/master.m3u8
+#EXTINF:-1,Epirus TV1 (1080p) [Not 24/7]
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1,Fox Greece (480p) [Not 24/7]
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1,GRD channel
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+#EXTINF:-1,Gre-TRT 2
+https://www.hellasnet.tv/rest.live.hn/trt2/chunklist.m3u8
+#EXTINF:-1,Greek TV London (720p) [Not 24/7]
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+#EXTINF:-1,Groovy TV (360p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1,Hellenic TV (720p) [Not 24/7]
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1,High TV (200p) [Not 24/7]
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1,IONIAN tv
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1,Ionian Channel (1080p) [Not 24/7]
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1,Irida TV (226p)
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+#EXTINF:-1,KPHTH TV (720p) [Not 24/7]
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1,Kontra Channel (1080p)
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1,MGR TV (1080p) [Not 24/7]
+https://vod.streams.ovh:3876/stream/play.m3u8
+#EXTINF:-1,Magic TV (480p)
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1,Maroussiotika TV (480p) [Not 24/7]
+http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
+#EXTINF:-1,Mega TV
+https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1,Mesogeios TV (432p)
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1,Messinia TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:-1,NEA tv
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1,NETV Toronto Greek
+https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1,NG Radio
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1,NS TV (480p) [Not 24/7]
+http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
+#EXTINF:-1,Nea TV (720p)
+https://live.neatv.gr:8888/hls/neatv.m3u8
+#EXTINF:-1,Netmax TV (720p) [Not 24/7]
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1,Notioi TV (720p)
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:-1,Open TV
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1,PLP (226p) [Not 24/7]
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+#EXTINF:-1,Pella TV (576p) [Not 24/7]
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1,Pik sat
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1,Play Alpha-host radio
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1,RIK Sat
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1,Reload (804p)
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1,SKAÏ
+https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate600K.m3u8
+#EXTINF:-1,Samiaki TV (540p) [Not 24/7]
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1,Sigma (576p) [Not 24/7]
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1,Skai (720p)
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1,Skai (720p)
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1,Smile TV GR
+https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1,Star GR
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1,Start TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1,Super B (576p) [Not 24/7]
+https://til.pp.ua:3424/live/superblive.m3u8
+#EXTINF:-1,TV 100 (576p) [Not 24/7]
+https://live.fm100.gr/hls/tv100/index.m3u8
+#EXTINF:-1,TV Filopoli-Crete
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1,TV Notos (720p) [Not 24/7]
+https://eco.streams.ovh/notos/notos/playlist.m3u8
+#EXTINF:-1,Tilemousiki (480p) [Not 24/7]
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1,Vouli TV (1080p)
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1,Vouli tileorasi
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1,Xalastra TV (360p)
+https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1,Xplore (714p) [Geo-blocked]
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1,Βουλή Τηλεόραση (360p)
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+#EXTINF:-1,Βουλή Τηλεόραση (540p)
+https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1,Βουλή Τηλεόραση 2 (540p) [Not 24/7]
+https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
+#EXTINF:-1,Βουλή Τηλεόραση 3 (540p)
+https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
+#EXTINF:-1,Εγνατία Τηλεόραση (576p)
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1,Εκκλησία (1080p)
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1,Ηλέκτρα TV (1080p) [Not 24/7]
+http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
+#EXTINF:-1,Κρήτη TV (720p) [Not 24/7]
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
+#EXTINF:-1,Μεσσάτιδα TV (450p) [Not 24/7]
+https://vod.streams.ovh:3037/stream/play.m3u8
+#EXTINF:-1,ΡΙΚ Sat (720p) [Not 24/7]
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1,АРТ
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1,КРНТН ТВ
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
